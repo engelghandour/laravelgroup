@@ -1,0 +1,20 @@
+#!/usr/bin/env php
+<?php
+
+/*
+|--------------------------------------------------------------------------
+| Laravel Group Project - Artisan Console
+|--------------------------------------------------------------------------
+|
+| This is a placeholder artisan file for the Laravel Group Project.
+| In a full Laravel installation, this would bootstrap the Artisan console.
+|
+| ICT Academy - Powered by Eng. Mohamed Mansour
+|
+*/
+
+echo "Laravel Group Project - ICT Academy\n";
+echo "Powered by Eng. Mohamed Mansour\n\n";
+echo "This is a placeholder artisan file.\n";
+echo "Please complete the Laravel installation by running 'composer install'\n";
+echo "to get the full Laravel framework with all artisan commands.\n";
